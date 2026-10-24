@@ -28,6 +28,7 @@
 | [0049-group-anagrams](https://github.com/ankitsinghind/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ankitsinghind/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ankitsinghind/Leetcode/tree/master/0242-valid-anagram) |
+| [2409-count-days-spent-together](https://github.com/ankitsinghind/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ankitsinghind/Leetcode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/ankitsinghind/Leetcode/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
