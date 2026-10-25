@@ -56,5 +56,6 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ankitsinghind/Leetcode/tree/master/0009-palindrome-number) |
 | [2409-count-days-spent-together](https://github.com/ankitsinghind/Leetcode/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
