@@ -8,11 +8,10 @@ public:
 
         int original = x;
         long long reverse = 0;
-        int last = 0;
 
         while(x > 0){
             // To get last digit of integer
-            last = x % 10;
+            int last = x % 10;
             // To increase digit by 1 place
             reverse = (reverse * 10) + last;
             // Will remove last digit
