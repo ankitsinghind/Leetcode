@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/ankitsinghind/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ankitsinghind/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankitsinghind/Leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/ankitsinghind/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ankitsinghind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsinghind/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ankitsinghind/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/ankitsinghind/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
