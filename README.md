@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankitsinghind/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/ankitsinghind/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ankitsinghind/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankitsinghind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ankitsinghind/Leetcode/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ankitsinghind/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ankitsinghind/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ankitsinghind/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
