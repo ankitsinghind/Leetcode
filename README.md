@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/ankitsinghind/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ankitsinghind/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankitsinghind/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankitsinghind/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ankitsinghind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsinghind/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -17,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/ankitsinghind/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankitsinghind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankitsinghind/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankitsinghind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsinghind/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -25,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/ankitsinghind/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankitsinghind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankitsinghind/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ankitsinghind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -63,5 +66,14 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankitsinghind/Leetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
 | [2409-count-days-spent-together](https://github.com/ankitsinghind/Leetcode/tree/master/2409-count-days-spent-together) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
