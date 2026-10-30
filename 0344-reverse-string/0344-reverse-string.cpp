@@ -6,6 +6,8 @@ public:
 
         while (left < right){
 
+            // swap(s[left], s[right]);
+            
             int temp = s[left];
             s[left] = s[right];
             s[right] = temp;
