@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/ankitsinghind/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/ankitsinghind/Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ankitsinghind/Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/ankitsinghind/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ankitsinghind/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ankitsinghind/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ankitsinghind/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ankitsinghind/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
 | [2409-count-days-spent-together](https://github.com/ankitsinghind/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Binary Search
