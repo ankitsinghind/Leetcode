@@ -5,7 +5,7 @@ public:
         // I will check if the i element is 1 then increment count until it is
         not 1 (ie. 0).
         // and will update the streak with count for consecutive 1s. 0 will
-        resent count.
+        reset count.
 
         int n = nums.size();
         int count = 0;
