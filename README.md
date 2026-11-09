@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ankitsinghind/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankitsinghind/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ankitsinghind/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0456-132-pattern](https://github.com/ankitsinghind/Leetcode/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ankitsinghind/Leetcode/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/ankitsinghind/Leetcode/tree/master/0456-132-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,4 +101,16 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitsinghind/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ankitsinghind/Leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ankitsinghind/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ankitsinghind/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
