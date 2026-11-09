@@ -16,7 +16,7 @@ public:
                 digits[i] = 0;
             }
         }
-        // If the no.s are 99 or 999 then all will become 00 or 000 and nothing
+        // If the no.s are 9 or 99 then all will become 00 or 000 and nothing
         // is returned so i will make a new array vector of n+1 size that will
         // have 0 only and the first elment will be changed to 1
 
